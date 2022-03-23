@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/coffee-tycoon-frontend/static/css/main.fb20b612.css",
+    "main.js": "/coffee-tycoon-frontend/static/js/main.6e4233c6.js",
+    "static/js/787.2a86a932.chunk.js": "/coffee-tycoon-frontend/static/js/787.2a86a932.chunk.js",
+    "static/media/main.png": "/coffee-tycoon-frontend/static/media/main.c3d54a333e207118c318.png",
+    "static/media/logo.svg": "/coffee-tycoon-frontend/static/media/logo.f4de67baa879b0a3b22c27c77a2c28a3.svg",
+    "index.html": "/coffee-tycoon-frontend/index.html",
+    "main.fb20b612.css.map": "/coffee-tycoon-frontend/static/css/main.fb20b612.css.map",
+    "main.6e4233c6.js.map": "/coffee-tycoon-frontend/static/js/main.6e4233c6.js.map",
+    "787.2a86a932.chunk.js.map": "/coffee-tycoon-frontend/static/js/787.2a86a932.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb20b612.css",
+    "static/js/main.6e4233c6.js"
+  ]
+}
